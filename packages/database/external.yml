@@ -287,3 +287,22 @@
   level: beginner
   tags: azure, azure cache for redis, database, serverless, apim, cache, csu
   navigation_levels: 3
+
+
+
+- title: Unleash the Power of Azure Open AI
+  description: Discover Azure Chat Solution Accelerator powered by Azure Open AI Service. It is a solution accelerator that allows organisations to deploy a private chat tenant in their Azure Subscription, with a familiar user experience and the added capabilities of chatting over your data and files.
+  url: https://github.com/microsoft/azurechat
+  language: en
+  last_updated: 2023-09-28
+  type: workshop
+  level: intermediate
+  github_url: https://github.com/microsoft/azurechat
+  authors:
+    - Thivy 
+  contacts:
+    - https://github.com/thivy
+  banner_url:  https://github.com/microsoft/azurechat/blob/main/images/intro.png
+  duration_minutes: 120
+  audience: students, pro devs
+  tags: azure, azure chat, open ai, azure opne ai
